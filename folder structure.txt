@@ -1,0 +1,10 @@
+Application
+	config
+		class.php
+		init.php
+	Controller
+		JoinToLessonController.php
+	Assets
+		JoinToLesson.js
+	views	
+		index.php
